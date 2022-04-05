@@ -1,0 +1,1846 @@
+@media (max-width: 575.98px) {
+  .home {
+    background-position: 55%; }
+    .home .home-container {
+      font-size: 12px;
+      top: 40%;
+      left: 39%; }
+      .home .home-container h1 {
+        font-weight: 400; }
+      .home .home-container h6 {
+        font-weight: 100;
+        margin-left: -46px;
+        text-decoration: none; }
+
+  .nav .jhon {
+    height: 36px; }
+    .nav .jhon h2 {
+      font-size: 11px;
+      margin-top: 3px; }
+  .nav .nav-items {
+    height: 36px;
+    width: 466px; }
+    .nav .nav-items ul {
+      margin-left: -28px;
+      width: 100%; }
+      .nav .nav-items ul li {
+        margin-left: 16px;
+        text-transform: uppercase;
+        cursor: pointer;
+        font-size: 11px;
+        margin-top: -6px; }
+
+  .intro .welcome {
+    left: 30%; }
+    .intro .welcome h1 {
+      font-size: 26px; }
+    .intro .welcome p {
+      margin-left: 24px;
+      font-size: 14px; }
+      .intro .welcome p::after {
+        top: 66%;
+        right: 16px;
+        width: 16px; }
+      .intro .welcome p::before {
+        top: 65%;
+        right: 216px;
+        width: 16px; }
+  .intro .john {
+    grid-template-columns: 1fr 1fr; }
+    .intro .john .p1 .deadlines {
+      margin-bottom: 34px;
+      margin-right: -14px;
+      position: relative;
+      left: -29px; }
+      .intro .john .p1 .deadlines h3 {
+        font-size: 14px;
+        margin-right: 64px; }
+      .intro .john .p1 .deadlines .deadlines-container {
+        grid-template-columns: 6fr 1fr; }
+        .intro .john .p1 .deadlines .deadlines-container .i-container {
+          width: 30px;
+          height: 30px;
+          top: 23px;
+          left: -4px; }
+          .intro .john .p1 .deadlines .deadlines-container .i-container i {
+            font-size: 16px;
+            top: 6px;
+            left: -42%; }
+    .intro .john .p1 .communication {
+      margin-left: -13px; }
+      .intro .john .p1 .communication h3 {
+        font-size: 13px;
+        font-weight: 600 !important;
+        letter-spacing: 0;
+        width: 155px;
+        position: relative;
+        left: -6px; }
+      .intro .john .p1 .communication .communication-container {
+        position: relative;
+        left: -10px; }
+        .intro .john .p1 .communication .communication-container .i-container {
+          width: 30px;
+          height: 30px;
+          top: 23px;
+          left: 8px; }
+          .intro .john .p1 .communication .communication-container .i-container i {
+            font-size: 13px;
+            top: 9px;
+            left: -44%; }
+    .intro .john .p2 {
+      display: none; }
+    .intro .john .p3 .Quality,
+    .intro .john .p3 .pixel {
+      margin-bottom: 20px; }
+      .intro .john .p3 .Quality h3,
+      .intro .john .p3 .pixel h3 {
+        font-size: 14px;
+        width: 124px;
+        position: relative;
+        left: 39px; }
+    .intro .john .p3 .communication-container,
+    .intro .john .p3 .deadlines-container {
+      margin-right: 36px; }
+      .intro .john .p3 .communication-container p,
+      .intro .john .p3 .deadlines-container p {
+        position: relative;
+        left: -8%;
+        font-size: 11px;
+        top: 11px;
+        width: 177px; }
+      .intro .john .p3 .communication-container .i-container,
+      .intro .john .p3 .deadlines-container .i-container {
+        width: 30px;
+        height: 30px;
+        top: 25px;
+        left: -32px; }
+        .intro .john .p3 .communication-container .i-container i,
+        .intro .john .p3 .deadlines-container .i-container i {
+          left: -51%;
+          top: 7px;
+          font-size: 14px; }
+
+  .creation {
+    margin-top: -113px;
+    height: 300px; }
+    .creation p {
+      top: 39%;
+      font-size: 18px; }
+
+  .john-work {
+    margin-top: 50px; }
+    .john-work .intro-container {
+      margin-top: -7px; }
+      .john-work .intro-container h3 {
+        letter-spacing: 1px;
+        font-size: 23px; }
+      .john-work .intro-container p {
+        word-spacing: 0;
+        font-size: 14px; }
+        .john-work .intro-container p::before {
+          top: 59px;
+          left: 18%;
+          width: 16px; }
+        .john-work .intro-container p::after {
+          top: 59px;
+          left: 79%;
+          width: 16px; }
+    .john-work .shape {
+      grid-template-columns: 1fr; }
+      .john-work .shape .p1,
+      .john-work .shape .p2,
+      .john-work .shape .p3,
+      .john-work .shape .p4 {
+        margin-top: -14px; }
+        .john-work .shape .p1 .i-container,
+        .john-work .shape .p2 .i-container,
+        .john-work .shape .p3 .i-container,
+        .john-work .shape .p4 .i-container {
+          width: 60px;
+          height: 60px; }
+          .john-work .shape .p1 .i-container i,
+          .john-work .shape .p2 .i-container i,
+          .john-work .shape .p3 .i-container i,
+          .john-work .shape .p4 .i-container i {
+            font-size: 20px;
+            top: 35%;
+            left: 18px; }
+        .john-work .shape .p1 h4,
+        .john-work .shape .p2 h4,
+        .john-work .shape .p3 h4,
+        .john-work .shape .p4 h4 {
+          font-size: 21px;
+          font-weight: 400;
+          margin-top: -7px;
+          margin-right: 26px; }
+        .john-work .shape .p1 p,
+        .john-work .shape .p2 p,
+        .john-work .shape .p3 p,
+        .john-work .shape .p4 p {
+          margin-bottom: 80px;
+          margin-left: 134px;
+          font-size: 13px; }
+
+  .skill {
+    margin-top: -49px;
+    height: 834px; }
+    .skill .skill-container {
+      grid-template-columns: 1fr; }
+      .skill .skill-container .video {
+        margin-top: -86px; }
+        .skill .skill-container .video p {
+          margin-bottom: 46px;
+          font-size: 15px; }
+          .skill .skill-container .video p::before {
+            top: 33px;
+            width: 31px; }
+        .skill .skill-container .video video {
+          width: 104%;
+          height: 315px;
+          margin-top: -54px; }
+      .skill .skill-container .skill-we-got {
+        margin-top: -31px; }
+        .skill .skill-container .skill-we-got .first {
+          position: relative;
+          top: -5%; }
+          .skill .skill-container .skill-we-got .first:before {
+            top: 39px;
+            left: 0%; }
+        .skill .skill-container .skill-we-got .p-container {
+          display: flex;
+          justify-content: space-between; }
+          .skill .skill-container .skill-we-got .p-container p {
+            text-transform: uppercase;
+            font-size: 14px; }
+          .skill .skill-container .skill-we-got .p-container .tt {
+            margin-right: 27px !important; }
+          .skill .skill-container .skill-we-got .p-container .last {
+            margin-right: 57px !important; }
+        .skill .skill-container .skill-we-got .increase,
+        .skill .skill-container .skill-we-got .increase2 {
+          left: 95%; }
+          .skill .skill-container .skill-we-got .increase::before,
+          .skill .skill-container .skill-we-got .increase2::before {
+            left: -42%;
+            top: -61%; }
+        .skill .skill-container .skill-we-got .increase2 {
+          left: 89%; }
+          .skill .skill-container .skill-we-got .increase2:before {
+            border-width: 0 13px 10px 6px;
+            left: -28%;
+            top: -79%; }
+
+  .icons {
+    height: 584px; }
+    .icons .icons-container {
+      grid-template-columns: 1fr; }
+
+  .services .title h4 {
+    font-size: 31px;
+    word-spacing: 2px; }
+  .services .title p {
+    font-size: 16px;
+    word-spacing: 3px;
+    margin-top: 16px; }
+    .services .title p::after {
+      left: 73%;
+      top: 14px;
+      width: 19px; }
+    .services .title p::before {
+      left: 24%;
+      top: 12px;
+      width: 19px; }
+  .services .arrow {
+    top: 59%;
+    height: 120px;
+    background: #F6F6F6; }
+    .services .arrow .arrow-container .shape,
+    .services .arrow .arrow-container .shape2 {
+      left: 43%;
+      width: 30px;
+      height: 30px;
+      border-width: 1px; }
+      .services .arrow .arrow-container .shape i,
+      .services .arrow .arrow-container .shape2 i {
+        font-size: 15px; }
+
+  .icons2,
+  hr {
+    display: none; }
+
+  .web {
+    margin-top: 131px; }
+    .web .web-container {
+      grid-template-columns: 1fr; }
+      .web .web-container .para-container {
+        width: 610px;
+        position: relative;
+        left: -11%; }
+        .web .web-container .para-container h4 {
+          font-weight: 500; }
+        .web .web-container .para-container p {
+          font-size: 14px;
+          margin-top: 33px; }
+      .web .web-container .img-container {
+        width: 464px;
+        position: relative;
+        left: -12%; }
+
+  .client {
+    margin-top: 38px; }
+    .client .review h4 {
+      font-size: 30px; }
+    .client .review p {
+      width: 298px;
+      word-spacing: 3px;
+      margin-left: 130px; }
+      .client .review p::after {
+        left: 98%; }
+      .client .review p::before {
+        left: -14px; }
+
+  .carousel {
+    height: 400px; }
+    .carousel .carousel-indicators {
+      display: none; }
+    .carousel .carousel-inner .carousel-caption {
+      display: block !important;
+      width: 100%;
+      left: 3px; }
+      .carousel .carousel-inner .carousel-caption .mike {
+        margin-top: 99px; }
+    .carousel .carousel-control-next,
+    .carousel .carousel-control-prev {
+      top: 25%; }
+    .carousel .carousel-control-prev {
+      top: 25%; }
+
+  .team {
+    margin-top: 66px; }
+    .team .team-container .meet {
+      width: 400px;
+      position: relative;
+      left: -33%; }
+      .team .team-container .meet p {
+        width: 107%;
+        font-size: 17px;
+        letter-spacing: 1px;
+        right: 3%;
+        margin-top: -2px; }
+        .team .team-container .meet p::after {
+          top: 13px;
+          left: 416px;
+          width: 18px; }
+        .team .team-container .meet p::before {
+          top: 13px;
+          left: -8px;
+          width: 18px; }
+    .team .team-container .team-work {
+      grid-template-columns: 1fr 1fr;
+      width: 500px;
+      height: 676px;
+      position: relative;
+      left: -51%;
+      margin-top: 42px;
+      grid-gap: 33px; }
+
+  .history {
+    margin-top: 8%; }
+    .history .history-container .look {
+      margin-top: -26px; }
+      .history .history-container .look h6::after {
+        top: 50px; }
+      .history .history-container .look p {
+        font-size: 14px;
+        margin-top: 50px; }
+    .history .history-container .his {
+      top: 141%;
+      left: 84%; }
+    .history .history-container .container {
+      right: 12%;
+      top: 100%;
+      width: 437px; }
+      .history .history-container .container::after {
+        left: 412px;
+        top: 148px; }
+      .history .history-container .container .sep {
+        margin-top: 131px;
+        height: 50px;
+        font-size: 15px; }
+      .history .history-container .container .web {
+        height: 50px;
+        font-size: 16px; }
+    .history .history-container .img-container {
+      top: 295px;
+      left: -27px; }
+      .history .history-container .img-container::after {
+        left: 440px;
+        top: -49%; }
+      .history .history-container .img-container::before {
+        width: 453px; }
+      .history .history-container .img-container img {
+        width: 100px;
+        height: 100px; }
+      .history .history-container .img-container p {
+        position: absolute;
+        left: 22%; }
+    .history .history-container .his2 {
+      TOP: 502px; }
+    .history .history-container .his3 {
+      background: #FFF;
+      top: 1097%;
+      z-index: 5; }
+      .history .history-container .his3 p {
+        text-transform: uppercase;
+        left: 20%; }
+    .history .history-container .container2 {
+      top: 496%;
+      left: 7%; }
+      .history .history-container .container2::after {
+        left: 350px;
+        top: 150px;
+        transform: rotate(271deg); }
+      .history .history-container .container2 .sep {
+        position: relative;
+        left: -699%; }
+    .history .history-container .img-container2 {
+      left: -6%;
+      top: 686px; }
+      .history .history-container .img-container2::after {
+        left: 85%;
+        top: -53%; }
+      .history .history-container .img-container2::before {
+        right: 68px; }
+    .history .history-container .container3 {
+      top: 802%;
+      right: 57px; }
+    .history .history-container .img-container3 {
+      top: 981px; }
+      .history .history-container .img-container3::after {
+        top: -52%; }
+      .history .history-container .img-container3::before {
+        width: 453px; }
+    .history .history-container .his3 {
+      top: 1223%; }
+
+  .two {
+    display: block;
+    left: -17px;
+    top: -650px; }
+
+  .works {
+    margin-top: 24px; }
+    .works .works-container {
+      width: 80%;
+      margin: 2px auto; }
+      .works .works-container .recent h4 {
+        font-size: 25px; }
+      .works .works-container .recent p {
+        font-size: 15px;
+        letter-spacing: 1px;
+        margin-top: -5px; }
+        .works .works-container .recent p::after {
+          top: 12px;
+          left: 98%;
+          width: 17px; }
+        .works .works-container .recent p::before {
+          top: 11px;
+          left: -2%;
+          width: 17px; }
+      .works .works-container .nav {
+        margin-bottom: 72px;
+        width: 511px;
+        left: -13%;
+        margin-top: 30px; }
+        .works .works-container .nav ul {
+          display: grid;
+          grid-template-columns: 1fr 1fr;
+          margin-left: 15px;
+          width: 343%; }
+          .works .works-container .nav ul li {
+            font-size: 11px;
+            word-spacing: 4px; }
+            .works .works-container .nav ul li:hover {
+              background: #196FC2;
+              color: #FFF;
+              transition: all 0.1s ease-in-out; }
+        .works .works-container .nav .active {
+          margin-bottom: -1px; }
+      .works .works-container hr {
+        display: block;
+        top: -27px;
+        left: -9px;
+        width: 450px; }
+        .works .works-container hr::before {
+          content: none; }
+      .works .works-container .img-section {
+        grid-template-columns: 1fr 1fr;
+        width: 535px;
+        position: relative;
+        left: -10%;
+        top: -16px; }
+
+  .impressed {
+    margin-top: 36px;
+    height: 350px; }
+    .impressed .impressed-container .question {
+      top: 117px; }
+
+  .far {
+    margin-top: 54px; }
+    .far .far-container p {
+      letter-spacing: 3px;
+      font-size: 17px; }
+      .far .far-container p::after {
+        top: 358%;
+        right: 47%; }
+    .far .far-container .img-section {
+      grid-template-columns: 1fr 1fr 1fr;
+      position: relative;
+      left: -13%; }
+
+  .follow {
+    margin-top: 39px;
+    height: 455px;
+    width: 575px; }
+    .follow .follow-container {
+      top: 31%;
+      padding: 0 19px; }
+      .follow .follow-container .i-container {
+        width: 50px;
+        height: 50px;
+        left: 47%; }
+        .follow .follow-container .i-container i {
+          color: #FFF;
+          position: absolute;
+          transform: rotate(-36deg);
+          left: 35%;
+          top: 29%; }
+        .follow .follow-container .i-container::after {
+          top: 121%;
+          left: 81%; }
+      .follow .follow-container p {
+        margin-top: 22px; }
+      .follow .follow-container button {
+        background: none;
+        border: 1px solid #FFF;
+        color: #FFF;
+        margin-top: 32px;
+        text-transform: uppercase;
+        padding: 0 15px;
+        width: 127px;
+        height: 45px; }
+        .follow .follow-container button:hover {
+          background: #196FC2;
+          border: none;
+          transition: all 1s ease; }
+
+  .contact {
+    margin-top: 65px; }
+    .contact .contact-container .mike h5 {
+      font-size: 30px;
+      letter-spacing: 1px; }
+    .contact .contact-container .mike p {
+      font-size: 17px; }
+      .contact .contact-container .mike p::after {
+        left: 332px; }
+      .contact .contact-container .mike p::before {
+        left: 200px; }
+    .contact .contact-container form {
+      position: relative;
+      left: -20%; }
+      .contact .contact-container form input {
+        width: 183%; }
+      .contact .contact-container form textarea {
+        width: 180%; }
+      .contact .contact-container form button {
+        width: 188%; }
+
+  .blue {
+    margin-top: -10px; }
+    .blue .blue-container {
+      left: 13%; }
+
+  .footer .footer-container ul {
+    margin-left: -132px; } }
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .home {
+    background-position: 51%; }
+    .home::after {
+      content: '';
+      width: 100%;
+      height: 100%;
+      position: absolute;
+      top: 0;
+      left: 0;
+      background: rgba(0, 0, 0, 0.5);
+      z-index: 0; }
+    .home .home-container {
+      font-size: 12px;
+      top: 40%;
+      left: 44%;
+      z-index: 2; }
+      .home .home-container h1 {
+        font-weight: 400; }
+      .home .home-container h6 {
+        font-weight: 400;
+        text-decoration: none;
+        padding-bottom: 17px;
+        font-size: 16px;
+        border-bottom: 1px solid #FFF;
+        position: relative;
+        left: -21%;
+        letter-spacing: 2px; }
+      .home .home-container p {
+        letter-spacing: 2px;
+        margin-left: -148px; }
+
+  .nav .jhon {
+    height: 44px; }
+    .nav .jhon h2 {
+      font-size: 15px;
+      margin-top: 5px; }
+  .nav .nav-items {
+    height: 44px;
+    width: 643px; }
+    .nav .nav-items ul {
+      margin-left: -44px;
+      width: 100%; }
+      .nav .nav-items ul li {
+        margin-left: 26px;
+        text-transform: uppercase;
+        cursor: pointer;
+        font-size: 13px;
+        margin-top: -6px; }
+
+  .intro .welcome {
+    left: 35%; }
+    .intro .welcome h1 {
+      font-size: 29px;
+      margin-bottom: 15px; }
+    .intro .welcome p {
+      margin-left: 39px;
+      font-size: 16px; }
+      .intro .welcome p::after {
+        top: 69%;
+        right: 11px;
+        width: 16px; }
+      .intro .welcome p::before {
+        top: 68%;
+        right: 225px;
+        width: 16px; }
+  .intro .john {
+    grid-template-columns: 1fr 1fr; }
+    .intro .john .p1 .deadlines {
+      margin-bottom: 34px;
+      margin-right: 29px;
+      position: relative;
+      left: -47px;
+      top: -10%; }
+      .intro .john .p1 .deadlines h3 {
+        font-size: 17px;
+        margin-right: 64px; }
+      .intro .john .p1 .deadlines .deadlines-container {
+        grid-template-columns: 6fr 1fr; }
+        .intro .john .p1 .deadlines .deadlines-container p {
+          font-size: 14px; }
+        .intro .john .p1 .deadlines .deadlines-container .i-container {
+          width: 40px;
+          height: 40px;
+          top: 18px;
+          left: 2px; }
+          .intro .john .p1 .deadlines .deadlines-container .i-container i {
+            font-size: 19px;
+            top: 11px;
+            left: -23%; }
+    .intro .john .p1 .communication {
+      margin-left: -13px; }
+      .intro .john .p1 .communication h3 {
+        font-size: 17px;
+        font-weight: 600 !important;
+        letter-spacing: 0;
+        width: 214px;
+        position: relative;
+        left: -26px; }
+      .intro .john .p1 .communication .communication-container {
+        position: relative;
+        left: -37px; }
+        .intro .john .p1 .communication .communication-container p {
+          font-size: 15px; }
+        .intro .john .p1 .communication .communication-container .i-container {
+          width: 40px;
+          height: 40px;
+          top: 14px;
+          left: 2px; }
+          .intro .john .p1 .communication .communication-container .i-container i {
+            font-size: 19px;
+            top: 11px;
+            left: -23%; }
+    .intro .john .p2 {
+      display: none; }
+    .intro .john .p3 {
+      margin-top: -10px; }
+      .intro .john .p3 .Quality,
+      .intro .john .p3 .pixel {
+        margin-bottom: 43px; }
+        .intro .john .p3 .Quality h3,
+        .intro .john .p3 .pixel h3 {
+          font-size: 20px;
+          width: 189px;
+          position: relative;
+          left: 95px;
+          top: -20px; }
+      .intro .john .p3 .communication-container,
+      .intro .john .p3 .deadlines-container {
+        margin-right: -75px; }
+        .intro .john .p3 .communication-container p,
+        .intro .john .p3 .deadlines-container p {
+          position: relative;
+          left: -3%;
+          font-size: 14px;
+          top: -23px;
+          width: 246px; }
+        .intro .john .p3 .communication-container .i-container,
+        .intro .john .p3 .deadlines-container .i-container {
+          width: 40px;
+          height: 40px;
+          top: 4px;
+          left: -1px; }
+          .intro .john .p3 .communication-container .i-container i,
+          .intro .john .p3 .deadlines-container .i-container i {
+            left: -32%;
+            top: 11px;
+            font-size: 21px; }
+
+  .creation {
+    margin-top: -77px;
+    height: 300px; }
+    .creation p {
+      top: 39%;
+      font-size: 18px; }
+
+  .john-work {
+    margin-top: 50px; }
+    .john-work .intro-container {
+      margin-top: -7px;
+      margin-left: 28px; }
+      .john-work .intro-container h3 {
+        letter-spacing: 2px;
+        font-size: 25px; }
+      .john-work .intro-container p {
+        font-size: 17px;
+        margin-top: -1px; }
+        .john-work .intro-container p::before {
+          top: 62px;
+          left: 20%;
+          width: 16px; }
+        .john-work .intro-container p::after {
+          top: 61px;
+          left: 78%;
+          width: 16px; }
+    .john-work .shape {
+      grid-template-columns: 1fr 1fr;
+      margin-left: -111px; }
+      .john-work .shape .p1,
+      .john-work .shape .p2,
+      .john-work .shape .p3,
+      .john-work .shape .p4 {
+        margin-top: -3px;
+        margin-bottom: 25px; }
+        .john-work .shape .p1 .i-container,
+        .john-work .shape .p2 .i-container,
+        .john-work .shape .p3 .i-container,
+        .john-work .shape .p4 .i-container {
+          width: 60px;
+          height: 60px;
+          left: 54%; }
+          .john-work .shape .p1 .i-container i,
+          .john-work .shape .p2 .i-container i,
+          .john-work .shape .p3 .i-container i,
+          .john-work .shape .p4 .i-container i {
+            font-size: 20px;
+            top: 35%;
+            left: 18px; }
+        .john-work .shape .p1 h4,
+        .john-work .shape .p2 h4,
+        .john-work .shape .p3 h4,
+        .john-work .shape .p4 h4 {
+          font-size: 21px;
+          font-weight: 400;
+          margin-top: -7px;
+          margin-right: -69px; }
+        .john-work .shape .p1 p,
+        .john-work .shape .p2 p,
+        .john-work .shape .p3 p,
+        .john-work .shape .p4 p {
+          margin-bottom: 80px;
+          margin-left: 122px;
+          font-size: 14px; }
+
+  .skill {
+    margin-top: -49px;
+    height: 834px; }
+    .skill .skill-container {
+      grid-template-columns: 1fr; }
+      .skill .skill-container .video {
+        margin-top: -86px; }
+        .skill .skill-container .video p {
+          margin-bottom: 82px;
+          font-size: 15px; }
+          .skill .skill-container .video p::before {
+            top: 33px;
+            width: 31px; }
+        .skill .skill-container .video video {
+          width: 104%;
+          height: 315px;
+          margin-top: -54px; }
+      .skill .skill-container .skill-we-got {
+        margin-top: -31px; }
+        .skill .skill-container .skill-we-got .first {
+          position: relative;
+          top: -5%; }
+          .skill .skill-container .skill-we-got .first:before {
+            top: 39px;
+            left: 1%; }
+        .skill .skill-container .skill-we-got .p-container {
+          display: flex;
+          justify-content: space-between; }
+          .skill .skill-container .skill-we-got .p-container p {
+            text-transform: uppercase;
+            font-size: 14px; }
+          .skill .skill-container .skill-we-got .p-container .tt {
+            margin-right: 47px !important; }
+          .skill .skill-container .skill-we-got .p-container .last {
+            margin-right: 92px !important; }
+        .skill .skill-container .skill-we-got .increase,
+        .skill .skill-container .skill-we-got .increase2 {
+          left: 95%; }
+          .skill .skill-container .skill-we-got .increase::before,
+          .skill .skill-container .skill-we-got .increase2::before {
+            left: -42%;
+            top: -61%; }
+        .skill .skill-container .skill-we-got .increase2 {
+          left: 89%; }
+          .skill .skill-container .skill-we-got .increase2:before {
+            border-width: 0 13px 10px 6px;
+            left: -28%;
+            top: -79%; }
+
+  .icons {
+    height: 261px; }
+    .icons .icons-container {
+      grid-template-columns: 1fr 1fr;
+      position: relative;
+      left: -14%; }
+      .icons .icons-container .shape-container {
+        margin-right: 202px; }
+        .icons .icons-container .shape-container:nth-of-type(5) {
+          position: relative;
+          left: 47%;
+          top: -11%; }
+        .icons .icons-container .shape-container .shape {
+          width: 85px;
+          height: 85px; }
+        .icons .icons-container .shape-container p {
+          font-style: italic;
+          font-size: 14px;
+          font-weight: 500;
+          margin-left: 35px;
+          margin-bottom: 44px; }
+
+  .services {
+    margin-top: 34px; }
+    .services .title h4 {
+      font-size: 31px;
+      word-spacing: 2px; }
+    .services .title p {
+      font-size: 16px;
+      word-spacing: 3px;
+      margin-top: 16px; }
+      .services .title p::after {
+        left: 67%;
+        top: 14px;
+        width: 19px; }
+      .services .title p::before {
+        left: 229px;
+        top: 12px;
+        width: 19px; }
+    .services .arrow {
+      top: 59%;
+      height: 120px;
+      background: #F6F6F6; }
+      .services .arrow .arrow-container .shape,
+      .services .arrow .arrow-container .shape2 {
+        left: 43%;
+        width: 30px;
+        height: 30px;
+        border-width: 1px; }
+        .services .arrow .arrow-container .shape i,
+        .services .arrow .arrow-container .shape2 i {
+          font-size: 15px; }
+
+  .icons2,
+  hr {
+    display: none; }
+
+  .web {
+    margin-top: 184px; }
+    .web .web-container {
+      grid-template-columns: 1fr; }
+      .web .web-container .para-container {
+        width: 738px;
+        position: relative;
+        left: -11%; }
+        .web .web-container .para-container h4 {
+          font-weight: 400; }
+        .web .web-container .para-container p {
+          font-size: 16px;
+          margin-top: 33px;
+          width: 97%;
+          margin-bottom: 33px; }
+      .web .web-container .img-container {
+        width: 99%;
+        position: relative;
+        left: -12%; }
+
+  .client {
+    margin-top: 38px; }
+    .client .review h4 {
+      font-size: 30px; }
+    .client .review p {
+      word-spacing: 3px;
+      width: auto;
+      margin-left: 15px; }
+      .client .review p::after {
+        left: 80%; }
+      .client .review p::before {
+        left: 128px; }
+
+  .carousel {
+    height: 400px; }
+    .carousel .carousel-indicators {
+      display: none; }
+    .carousel .carousel-inner .carousel-caption {
+      display: block !important;
+      width: 100%;
+      left: 3px; }
+      .carousel .carousel-inner .carousel-caption .mike {
+        margin-top: 99px; }
+    .carousel .carousel-control-next,
+    .carousel .carousel-control-prev {
+      top: 25%; }
+    .carousel .carousel-control-prev {
+      top: 25%; }
+
+  .team {
+    margin-top: 66px; }
+    .team .team-container {
+      margin-left: 38%; }
+      .team .team-container .meet {
+        width: 400px;
+        position: relative;
+        left: -33%; }
+        .team .team-container .meet p {
+          width: 107%;
+          font-size: 17px;
+          letter-spacing: 1px;
+          right: 3%;
+          margin-top: -2px; }
+          .team .team-container .meet p::after {
+            top: 13px;
+            left: 416px;
+            width: 18px; }
+          .team .team-container .meet p::before {
+            top: 13px;
+            left: -8px;
+            width: 18px; }
+      .team .team-container .team-work {
+        grid-template-columns: 1fr 1fr;
+        width: 700px;
+        left: -86%;
+        height: 676px;
+        position: relative;
+        margin-top: 42px;
+        grid-gap: 33px; }
+
+  .history {
+    margin-top: 8%; }
+    .history .history-container .look {
+      margin-top: -26px; }
+      .history .history-container .look h6::after {
+        top: 50px; }
+      .history .history-container .look p {
+        font-size: 14px;
+        margin-top: 50px; }
+    .history .history-container .his {
+      top: 141%;
+      left: 83%; }
+    .history .history-container .container {
+      right: 21%;
+      top: 74%;
+      width: 106%; }
+      .history .history-container .container::after {
+        left: 559px;
+        top: 198px; }
+      .history .history-container .container .sep {
+        margin-top: 184px;
+        height: 50px;
+        font-size: 16px;
+        width: 75px; }
+      .history .history-container .container .web {
+        height: 50px;
+        font-size: 16px;
+        width: 509px;
+        margin-left: 0; }
+    .history .history-container .img-container {
+      top: 326px;
+      left: -41px; }
+      .history .history-container .img-container::after {
+        left: 585px;
+        top: -56%; }
+      .history .history-container .img-container::before {
+        width: 592px; }
+      .history .history-container .img-container img {
+        width: 100px;
+        height: 100px; }
+      .history .history-container .img-container p {
+        position: absolute;
+        left: 22%; }
+    .history .history-container .his2 {
+      TOP: 514px; }
+    .history .history-container .his3 {
+      background: #FFF;
+      top: 1097%;
+      z-index: 5; }
+      .history .history-container .his3 p {
+        text-transform: uppercase;
+        left: 20%; }
+    .history .history-container .container2 {
+      top: 495%;
+      left: -6%; }
+      .history .history-container .container2::after {
+        left: 543px;
+        top: 200px;
+        transform: rotate(271deg); }
+      .history .history-container .container2 .web {
+        width: 507px;
+        margin-left: 12%; }
+      .history .history-container .container2 .sep {
+        position: relative;
+        left: -690%; }
+    .history .history-container .img-container2 {
+      left: -8%;
+      top: 733px; }
+      .history .history-container .img-container2::after {
+        left: 114%;
+        top: -50%; }
+      .history .history-container .img-container2::before {
+        right: -72px; }
+    .history .history-container .container3 {
+      top: 802%;
+      right: 135px; }
+    .history .history-container .img-container3 {
+      top: 1027px;
+      left: -45px; }
+      .history .history-container .img-container3::after {
+        top: -48%;
+        left: 589px; }
+      .history .history-container .img-container3::before {
+        width: 580px; }
+    .history .history-container .his3 {
+      top: 1256%; }
+
+  .two {
+    display: block;
+    left: 110px;
+    top: -631px;
+    width: 1007px; }
+
+  .works {
+    margin-top: 44px; }
+    .works .works-container {
+      width: 80%;
+      margin: 2px auto; }
+      .works .works-container .recent h4 {
+        font-size: 25px; }
+      .works .works-container .recent p {
+        font-size: 15px;
+        letter-spacing: 1px;
+        margin-top: -5px; }
+        .works .works-container .recent p::after {
+          top: 12px;
+          left: 86%;
+          width: 17px; }
+        .works .works-container .recent p::before {
+          top: 11px;
+          left: 11%;
+          width: 17px; }
+      .works .works-container .nav {
+        margin-bottom: 72px;
+        width: 653px;
+        left: -21%;
+        margin-top: 30px; }
+        .works .works-container .nav ul {
+          display: grid;
+          grid-template-columns: 1fr 1fr;
+          margin-left: 30px;
+          width: 450%; }
+          .works .works-container .nav ul li {
+            font-size: 11px;
+            word-spacing: 4px; }
+            .works .works-container .nav ul li:hover {
+              background: #196FC2;
+              color: #FFF;
+              transition: all 0.1s ease-in-out; }
+        .works .works-container .nav .active {
+          margin-bottom: -1px; }
+      .works .works-container hr {
+        display: block;
+        top: -27px;
+        left: -59px;
+        width: 700px; }
+        .works .works-container hr::before {
+          content: none; }
+      .works .works-container .img-section {
+        grid-template-columns: 1fr 1fr;
+        width: 705px;
+        position: relative;
+        left: -10%;
+        top: -16px; }
+
+  .impressed {
+    margin-top: 36px;
+    height: 350px; }
+    .impressed .impressed-container .question {
+      top: 117px; }
+
+  .far {
+    margin-top: 124px; }
+    .far .far-container p {
+      letter-spacing: 3px;
+      font-size: 17px; }
+      .far .far-container p::after {
+        top: 358%;
+        right: 47%; }
+    .far .far-container .img-section {
+      grid-template-columns: 1fr 1fr 1fr;
+      position: relative;
+      left: -4%; }
+      .far .far-container .img-section .img-container {
+        margin-right: 49px;
+        margin-bottom: 68px; }
+
+  .follow {
+    margin-top: -10px;
+    height: 443px;
+    width: 100%; }
+    .follow .follow-container {
+      top: 31%;
+      padding: 0 19px; }
+      .follow .follow-container .i-container {
+        width: 50px;
+        height: 50px;
+        left: 47%; }
+        .follow .follow-container .i-container i {
+          color: #FFF;
+          position: absolute;
+          transform: rotate(-36deg);
+          left: 35%;
+          top: 29%; }
+        .follow .follow-container .i-container::after {
+          top: 121%;
+          left: 81%; }
+      .follow .follow-container p {
+        margin-top: 22px; }
+      .follow .follow-container button {
+        background: none;
+        border: 1px solid #FFF;
+        color: #FFF;
+        margin-top: 32px;
+        text-transform: uppercase;
+        padding: 0 15px;
+        width: 127px;
+        height: 45px; }
+        .follow .follow-container button:hover {
+          background: #196FC2;
+          border: none;
+          transition: all 1s ease; }
+
+  .contact {
+    margin-top: 65px; }
+    .contact .contact-container .mike h5 {
+      font-size: 30px;
+      letter-spacing: 1px; }
+    .contact .contact-container .mike p {
+      font-size: 17px; }
+      .contact .contact-container .mike p::after {
+        left: 424px; }
+      .contact .contact-container .mike p::before {
+        left: 303px; }
+    .contact .contact-container form {
+      position: relative;
+      left: -20%; }
+      .contact .contact-container form input {
+        width: 183%; }
+      .contact .contact-container form textarea {
+        width: 180%; }
+      .contact .contact-container form button {
+        width: 188%; }
+
+  .blue {
+    margin-top: -10px; }
+    .blue .blue-container {
+      left: 24%; }
+
+  .footer .footer-container ul {
+    margin-left: -63px; } }
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .home {
+    background-position: 51%; }
+    .home::after {
+      content: '';
+      width: 100%;
+      height: 100%;
+      position: absolute;
+      top: 0;
+      left: 0;
+      background: rgba(0, 0, 0, 0.5);
+      z-index: 0; }
+    .home .home-container {
+      font-size: 12px;
+      top: 40%;
+      left: 44%;
+      z-index: 2; }
+      .home .home-container h1 {
+        font-weight: 400; }
+      .home .home-container h6 {
+        font-weight: 400;
+        text-decoration: none;
+        padding-bottom: 17px;
+        font-size: 16px;
+        border-bottom: 1px solid #FFF;
+        position: relative;
+        left: -21%;
+        letter-spacing: 2px; }
+      .home .home-container p {
+        letter-spacing: 2px;
+        margin-left: -148px; }
+
+  .nav {
+    overflow: hidden; }
+    .nav .jhon {
+      height: 44px; }
+      .nav .jhon h2 {
+        font-size: 15px;
+        margin-top: 5px; }
+    .nav .nav-items {
+      height: 44px;
+      width: auto; }
+      .nav .nav-items ul {
+        width: auto;
+        position: relative;
+        left: -4%; }
+        .nav .nav-items ul li {
+          text-transform: uppercase;
+          cursor: pointer;
+          font-size: 13px;
+          margin-top: -6px;
+          width: auto;
+          margin-left: 79px; }
+
+  .intro .welcome {
+    left: 35%; }
+    .intro .welcome h1 {
+      font-size: 29px;
+      margin-bottom: 15px; }
+    .intro .welcome p {
+      margin-left: 39px;
+      font-size: 16px; }
+      .intro .welcome p::after {
+        top: 69%;
+        right: 11px;
+        width: 16px; }
+      .intro .welcome p::before {
+        top: 68%;
+        right: 225px;
+        width: 16px; }
+  .intro .john {
+    grid-template-columns: 1fr 1fr;
+    margin-left: 129px; }
+    .intro .john .p1 .deadlines {
+      margin-bottom: 34px;
+      margin-right: 29px;
+      position: relative;
+      left: -47px;
+      top: -10%; }
+      .intro .john .p1 .deadlines h3 {
+        font-size: 17px;
+        margin-right: 64px; }
+      .intro .john .p1 .deadlines .deadlines-container {
+        grid-template-columns: 6fr 1fr; }
+        .intro .john .p1 .deadlines .deadlines-container p {
+          font-size: 14px; }
+        .intro .john .p1 .deadlines .deadlines-container .i-container {
+          width: 40px;
+          height: 40px;
+          top: 18px;
+          left: 2px; }
+          .intro .john .p1 .deadlines .deadlines-container .i-container i {
+            font-size: 19px;
+            top: 11px;
+            left: -23%; }
+    .intro .john .p1 .communication {
+      margin-left: -13px; }
+      .intro .john .p1 .communication h3 {
+        font-size: 17px;
+        font-weight: 600 !important;
+        letter-spacing: 0;
+        width: 214px;
+        position: relative;
+        left: -26px; }
+      .intro .john .p1 .communication .communication-container {
+        position: relative;
+        left: -37px; }
+        .intro .john .p1 .communication .communication-container p {
+          font-size: 15px; }
+        .intro .john .p1 .communication .communication-container .i-container {
+          width: 40px;
+          height: 40px;
+          top: 14px;
+          left: 2px; }
+          .intro .john .p1 .communication .communication-container .i-container i {
+            font-size: 19px;
+            top: 11px;
+            left: -23%; }
+    .intro .john .p2 {
+      display: none; }
+    .intro .john .p3 {
+      margin-top: -10px; }
+      .intro .john .p3 .Quality,
+      .intro .john .p3 .pixel {
+        margin-bottom: 43px; }
+        .intro .john .p3 .Quality h3,
+        .intro .john .p3 .pixel h3 {
+          font-size: 20px;
+          width: 189px;
+          position: relative;
+          left: 95px;
+          top: -20px; }
+      .intro .john .p3 .communication-container,
+      .intro .john .p3 .deadlines-container {
+        margin-right: -75px; }
+        .intro .john .p3 .communication-container p,
+        .intro .john .p3 .deadlines-container p {
+          position: relative;
+          left: -3%;
+          font-size: 14px;
+          top: -23px;
+          width: 246px; }
+        .intro .john .p3 .communication-container .i-container,
+        .intro .john .p3 .deadlines-container .i-container {
+          width: 40px;
+          height: 40px;
+          top: 4px;
+          left: -1px; }
+          .intro .john .p3 .communication-container .i-container i,
+          .intro .john .p3 .deadlines-container .i-container i {
+            left: -32%;
+            top: 11px;
+            font-size: 21px; }
+
+  .creation {
+    margin-top: -77px;
+    height: 300px; }
+    .creation p {
+      top: 39%;
+      font-size: 18px; }
+
+  .john-work {
+    margin-top: 50px; }
+    .john-work .intro-container {
+      margin-top: -7px;
+      margin-left: 28px; }
+      .john-work .intro-container h3 {
+        letter-spacing: 2px;
+        font-size: 25px; }
+      .john-work .intro-container p {
+        font-size: 17px;
+        margin-top: -1px; }
+        .john-work .intro-container p::before {
+          top: 62px;
+          left: 27%;
+          width: 16px; }
+        .john-work .intro-container p::after {
+          top: 61px;
+          left: 71%;
+          width: 16px; }
+    .john-work .shape {
+      grid-template-columns: 1fr 1fr;
+      margin-left: -3%; }
+      .john-work .shape .p1,
+      .john-work .shape .p2,
+      .john-work .shape .p3,
+      .john-work .shape .p4 {
+        margin-top: -3px;
+        margin-bottom: 25px; }
+        .john-work .shape .p1 .i-container,
+        .john-work .shape .p2 .i-container,
+        .john-work .shape .p3 .i-container,
+        .john-work .shape .p4 .i-container {
+          width: 60px;
+          height: 60px;
+          left: 54%; }
+          .john-work .shape .p1 .i-container i,
+          .john-work .shape .p2 .i-container i,
+          .john-work .shape .p3 .i-container i,
+          .john-work .shape .p4 .i-container i {
+            font-size: 20px;
+            top: 35%;
+            left: 18px; }
+        .john-work .shape .p1 h4,
+        .john-work .shape .p2 h4,
+        .john-work .shape .p3 h4,
+        .john-work .shape .p4 h4 {
+          font-size: 21px;
+          font-weight: 400;
+          margin-top: -7px;
+          margin-right: -69px; }
+        .john-work .shape .p1 p,
+        .john-work .shape .p2 p,
+        .john-work .shape .p3 p,
+        .john-work .shape .p4 p {
+          margin-bottom: 80px;
+          margin-left: 122px;
+          font-size: 14px; }
+
+  .skill {
+    margin-top: -49px;
+    height: 834px; }
+    .skill .skill-container {
+      grid-template-columns: 1fr;
+      margin-left: 6%; }
+      .skill .skill-container .video {
+        margin-top: -86px; }
+        .skill .skill-container .video p {
+          margin-bottom: 82px;
+          font-size: 15px; }
+          .skill .skill-container .video p::before {
+            top: 33px;
+            width: 31px; }
+        .skill .skill-container .video video {
+          width: 104%;
+          height: 315px;
+          margin-top: -54px; }
+      .skill .skill-container .skill-we-got {
+        margin-top: -31px; }
+        .skill .skill-container .skill-we-got .first {
+          position: relative;
+          top: -5%; }
+          .skill .skill-container .skill-we-got .first:before {
+            top: 39px;
+            left: 0; }
+        .skill .skill-container .skill-we-got .p-container {
+          display: flex;
+          justify-content: space-between; }
+          .skill .skill-container .skill-we-got .p-container p {
+            text-transform: uppercase;
+            font-size: 14px; }
+          .skill .skill-container .skill-we-got .p-container .tt {
+            margin-right: 47px !important; }
+          .skill .skill-container .skill-we-got .p-container .last {
+            margin-right: 92px !important; }
+        .skill .skill-container .skill-we-got .increase,
+        .skill .skill-container .skill-we-got .increase2 {
+          left: 95%; }
+          .skill .skill-container .skill-we-got .increase::before,
+          .skill .skill-container .skill-we-got .increase2::before {
+            left: -42%;
+            top: -61%; }
+        .skill .skill-container .skill-we-got .increase2 {
+          left: 89%; }
+          .skill .skill-container .skill-we-got .increase2:before {
+            border-width: 0 13px 10px 6px;
+            left: -28%;
+            top: -79%; }
+
+  .icons {
+    height: 261px; }
+    .icons .icons-container {
+      grid-template-columns: 1fr 1fr;
+      position: relative;
+      left: 4%; }
+      .icons .icons-container .shape-container {
+        margin-right: 202px; }
+        .icons .icons-container .shape-container:nth-of-type(5) {
+          position: relative;
+          left: 47%;
+          top: -11%; }
+        .icons .icons-container .shape-container .shape {
+          width: 85px;
+          height: 85px; }
+        .icons .icons-container .shape-container p {
+          font-style: italic;
+          font-size: 14px;
+          font-weight: 500;
+          margin-left: 35px;
+          margin-bottom: 44px; }
+
+  .services {
+    margin-top: 34px; }
+    .services .title h4 {
+      font-size: 31px;
+      word-spacing: 2px; }
+    .services .title p {
+      font-size: 16px;
+      word-spacing: 3px;
+      margin-top: 16px; }
+      .services .title p::after {
+        left: 63%;
+        top: 14px;
+        width: 19px; }
+      .services .title p::before {
+        left: 343px;
+        top: 12px;
+        width: 19px; }
+    .services .arrow {
+      top: 59%;
+      height: 120px;
+      background: #F6F6F6; }
+      .services .arrow .arrow-container {
+        margin-left: 4%; }
+        .services .arrow .arrow-container .shape,
+        .services .arrow .arrow-container .shape2 {
+          left: 43%;
+          width: 30px;
+          height: 30px;
+          border-width: 1px; }
+          .services .arrow .arrow-container .shape i,
+          .services .arrow .arrow-container .shape2 i {
+            font-size: 15px; }
+
+  .icons2,
+  hr {
+    display: none; }
+
+  .web {
+    margin-top: 208px; }
+    .web .web-container {
+      grid-template-columns: 1fr;
+      margin-left: 13%; }
+      .web .web-container .para-container {
+        width: 738px;
+        position: relative;
+        left: -11%; }
+        .web .web-container .para-container h4 {
+          font-weight: 400; }
+        .web .web-container .para-container p {
+          font-size: 16px;
+          margin-top: 33px;
+          width: 97%;
+          margin-bottom: 33px; }
+      .web .web-container .img-container {
+        width: 99%;
+        position: relative;
+        left: -12%; }
+
+  .client {
+    margin-top: 38px; }
+    .client .review h4 {
+      font-size: 30px; }
+    .client .review p {
+      word-spacing: 3px;
+      width: auto;
+      margin-left: 15px; }
+      .client .review p::after {
+        left: 73%; }
+      .client .review p::before {
+        left: 244px; }
+
+  .carousel {
+    height: 400px; }
+    .carousel .carousel-indicators {
+      display: none; }
+    .carousel .carousel-inner .carousel-caption {
+      display: block !important;
+      width: 100%;
+      left: 3px; }
+      .carousel .carousel-inner .carousel-caption .mike {
+        margin-top: 99px; }
+    .carousel .carousel-control-next,
+    .carousel .carousel-control-prev {
+      top: 25%; }
+    .carousel .carousel-control-prev {
+      top: 25%; }
+
+  .team {
+    margin-top: 66px; }
+    .team .team-container {
+      margin-left: 47%; }
+      .team .team-container .meet {
+        width: 400px;
+        position: relative;
+        left: -48%; }
+        .team .team-container .meet p {
+          width: 107%;
+          font-size: 17px;
+          letter-spacing: 1px;
+          right: 3%;
+          margin-top: -2px; }
+          .team .team-container .meet p::after {
+            top: 13px;
+            left: 416px;
+            width: 18px; }
+          .team .team-container .meet p::before {
+            top: 13px;
+            left: -8px;
+            width: 18px; }
+      .team .team-container .team-work {
+        grid-template-columns: 1fr 1fr;
+        width: 700px;
+        left: -86%;
+        height: 676px;
+        position: relative;
+        margin-top: 42px;
+        grid-gap: 33px; }
+
+  .history {
+    margin-top: 8%; }
+    .history .history-container .look {
+      margin-top: -26px; }
+      .history .history-container .look h6::after {
+        top: 50px; }
+      .history .history-container .look p {
+        font-size: 14px;
+        margin-top: 50px; }
+    .history .history-container .his {
+      top: 149%;
+      left: 413px; }
+    .history .history-container .container {
+      right: 7%;
+      top: 74%;
+      width: 106%; }
+      .history .history-container .container::after {
+        left: 366px;
+        top: 200px; }
+      .history .history-container .container .sep {
+        margin-top: 184px;
+        height: 54px;
+        font-size: 16px;
+        width: 79px; }
+      .history .history-container .container .web {
+        height: 54px;
+        font-size: 16px;
+        width: 313px;
+        margin-left: 0;
+        position: relative;
+        top: -24px;
+        left: -4%; }
+    .history .history-container .img-container {
+      top: 326px;
+      left: 39px; }
+      .history .history-container .img-container::after {
+        left: 394px;
+        top: -52%; }
+      .history .history-container .img-container::before {
+        width: 395px; }
+      .history .history-container .img-container img {
+        width: 100px;
+        height: 100px; }
+      .history .history-container .img-container p {
+        position: absolute;
+        left: 22%;
+        width: 265px; }
+    .history .history-container .his2 {
+      TOP: 514px; }
+    .history .history-container .his3 {
+      background: #FFF;
+      top: 1097%;
+      z-index: 5; }
+      .history .history-container .his3 p {
+        text-transform: uppercase;
+        left: 20%; }
+    .history .history-container .container2 {
+      top: 495%;
+      left: 50%; }
+      .history .history-container .container2::after {
+        left: 44px;
+        top: 202px;
+        transform: rotate(450deg); }
+      .history .history-container .container2 .web {
+        width: 320px;
+        margin-left: 12%; }
+      .history .history-container .container2 .sep {
+        position: relative;
+        left: -249px; }
+    .history .history-container .img-container2 {
+      left: 56%;
+      top: 733px; }
+      .history .history-container .img-container2::after {
+        left: -5%;
+        top: -48%; }
+      .history .history-container .img-container2::before {
+        right: 126px; }
+    .history .history-container .container3 {
+      top: 802%;
+      right: 57px; }
+    .history .history-container .img-container3 {
+      top: 1027px;
+      left: 41px; }
+      .history .history-container .img-container3::after {
+        top: -44%;
+        left: 392px; }
+      .history .history-container .img-container3::before {
+        width: 395px; }
+    .history .history-container .his3 {
+      top: 1256%; }
+
+  .two {
+    display: block;
+    left: 17px;
+    top: -631px;
+    width: 1007px; }
+
+  .works {
+    margin-top: 44px; }
+    .works .works-container {
+      width: 80%;
+      margin: 2px auto; }
+      .works .works-container .recent h4 {
+        font-size: 25px; }
+      .works .works-container .recent p {
+        font-size: 15px;
+        letter-spacing: 1px;
+        margin-top: -5px; }
+        .works .works-container .recent p::after {
+          top: 12px;
+          left: 78%;
+          width: 17px; }
+        .works .works-container .recent p::before {
+          top: 11px;
+          left: 20%;
+          width: 17px; }
+      .works .works-container .nav {
+        margin-bottom: 72px;
+        left: -13%;
+        margin-top: 30px;
+        height: 47px;
+        width: 152%;
+        margin-left: 34px; }
+        .works .works-container .nav ul {
+          display: grid;
+          margin-left: 30px;
+          width: 450%;
+          grid-template-columns: repeat(4, 1fr);
+          height: 100%; }
+          .works .works-container .nav ul li {
+            font-size: 11px;
+            word-spacing: 4px;
+            margin-left: -22px; }
+            .works .works-container .nav ul li:hover {
+              background: #196FC2;
+              color: #FFF;
+              transition: all 0.1s ease-in-out; }
+        .works .works-container .nav .active {
+          margin-bottom: -1px; }
+      .works .works-container hr {
+        display: block;
+        top: -72px;
+        left: -27px;
+        width: 856px; }
+        .works .works-container hr::before {
+          left: -322px;
+          top: -6px; }
+      .works .works-container .img-section {
+        width: 870px;
+        position: relative;
+        left: -4%;
+        top: -42px; }
+
+  .impressed {
+    margin-top: -1px;
+    height: 422px; }
+    .impressed .impressed-container .question {
+      top: 117px; }
+
+  .far {
+    margin-top: 124px; }
+    .far .far-container p {
+      letter-spacing: 3px;
+      font-size: 17px; }
+      .far .far-container p::after {
+        top: 358%;
+        right: 45%; }
+    .far .far-container .img-section {
+      grid-template-columns: 1fr 1fr 1fr;
+      position: relative;
+      left: 7%; }
+      .far .far-container .img-section .img-container {
+        margin-right: 49px;
+        margin-bottom: 68px; }
+
+  .follow {
+    margin-top: -10px;
+    height: 443px;
+    width: 100%; }
+    .follow .follow-container {
+      top: 31%;
+      padding: 0 19px; }
+      .follow .follow-container .i-container {
+        width: 50px;
+        height: 50px;
+        left: 47%; }
+        .follow .follow-container .i-container i {
+          color: #FFF;
+          position: absolute;
+          transform: rotate(-36deg);
+          left: 35%;
+          top: 29%; }
+        .follow .follow-container .i-container::after {
+          top: 121%;
+          left: 81%; }
+      .follow .follow-container p {
+        margin-top: 22px; }
+      .follow .follow-container button {
+        background: none;
+        border: 1px solid #FFF;
+        color: #FFF;
+        margin-top: 32px;
+        text-transform: uppercase;
+        padding: 0 15px;
+        width: 127px;
+        height: 45px; }
+        .follow .follow-container button:hover {
+          background: #196FC2;
+          border: none;
+          transition: all 1s ease; }
+
+  .contact {
+    margin-top: 65px; }
+    .contact .contact-container .mike h5 {
+      font-size: 30px;
+      letter-spacing: 1px; }
+    .contact .contact-container .mike p {
+      font-size: 17px; }
+      .contact .contact-container .mike p::after {
+        left: 538px; }
+      .contact .contact-container .mike p::before {
+        left: 414px; }
+    .contact .contact-container form {
+      position: relative;
+      left: -20%; }
+      .contact .contact-container form input {
+        width: 183%; }
+      .contact .contact-container form textarea {
+        width: 180%; }
+      .contact .contact-container form button {
+        width: 188%; }
+
+  .blue {
+    margin-top: -10px; }
+    .blue .blue-container {
+      left: 31%; }
+
+  .footer .footer-container ul {
+    margin-left: -1px; } }
+
+/*# sourceMappingURL=index-mq.css.map */
