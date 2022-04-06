@@ -89,7 +89,7 @@ _100% responsive design that is suitable for all screens_
  > _give a star if this Design helped you_
  
  ***
-|_contact me:_||
+|_contact me:_|Email|
 |:-----|:-----|
 |gmail|tawfekelhadary@gmail.com|
 |facebook|https://www.facebook.com/tawfek.elhadary/|
